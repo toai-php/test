@@ -10,4 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     // issue1
+
+    // issue2
 }
